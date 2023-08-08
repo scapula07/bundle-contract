@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.0"
+  },
+  "dependencies": {
+    "@bundle-dao/pancakeswap-peripheral": "^1.1.8",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts": "^4.9.3",
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "@openzeppelin/contracts-upgradeable": "^4.9.3",
+    "@pancakeswap-libs/pancake-swap-core": "^0.1.0",
+    "ethers": "5.4"
+  }
+}
